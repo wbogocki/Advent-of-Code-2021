@@ -1,2 +1,2 @@
 @echo off
-.\day_02\2.exe
+.\day_03\2.exe
